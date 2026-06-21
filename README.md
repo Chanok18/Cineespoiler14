@@ -75,7 +75,7 @@ Aplicación web desarrollada con **React + TypeScript** orientada a la venta de 
 
 ### 🔹 Evidencia 4: Homepage y consumo de API
 
-![Evidencia 4](ruta-imagen)
+![alt text](image-8.png)
 
 ---
 
